@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Luis (`56137`) 👋
+**Software Engineer** focused on backend systems, application security, and automated web platforms with Python and Flask.
 
-<!--
-**56137/56137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Project
+- **[PRAETOR Intelligence](https://github.com/56137/praetor-intelligence)** — Automated digital surface auditing, risk scoring, PDF report generation, and continuous monitoring platform.
+  - **Security & Reliability:** SSRF-hardened target scanner (DNS + redirect-hop IP validation), fail-closed admin/cron auth (`hmac.compare_digest`), and server-authoritative Stripe Checkout webhooks.
+  - **Stack:** Python 3.11, Flask, PostgreSQL / Supabase, Stripe, ReportLab, Gunicorn, Pytest (35 automated tests), GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages & Backend:** Python, Flask, Gunicorn, REST APIs, SQL
+- **Databases & Cloud:** PostgreSQL, Supabase, Render, Railway, Docker
+- **Testing & Security:** Pytest, SSRF prevention, Stripe Webhook verification, CI/CD (GitHub Actions)
